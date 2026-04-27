@@ -21,6 +21,6 @@ An AFTER UPDATE trigger captures any modifications made to existing employee rec
 Below are screenshots of the master employee table and the audit table:
 
 <img width="1575" height="488" alt="image" src="https://github.com/user-attachments/assets/20f7fc20-752d-4fc6-b1fd-14dd24779256" />
-
+<br><br>
 <img width="1560" height="408" alt="image" src="https://github.com/user-attachments/assets/a5ef350e-c29e-45d0-8972-9a2372fb687b" />
 
